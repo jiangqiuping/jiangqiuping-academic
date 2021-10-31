@@ -1,21 +1,15 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: 个人介绍
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: Test
+headless: true
+weight: 20
+title: Biography
+subtitle: ""
 ---
+<!--StartFragment-->
+
+I am currently an Associate Professor at Ningbo University, Ningbo, China. I obtained my Ph.D. degree in Signal and Information Processing from Ningbo University in June 2018. From Jan. 2017 to May 2018, I was a visiting Ph.D. student at Nanyang Technological University, Singapore.
+
+<!--EndFragment-->
