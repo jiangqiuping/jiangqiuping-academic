@@ -1,7 +1,7 @@
 ---
 title: Qiuping Jiang
 role: Ph.D., Associate Professor
-avatar_filename: null
+avatar_filename: https://jiangqiuping.github.io/Homepage/picture.png
 bio: I am currently an Associate Professor at Ningbo University, Ningbo, China.
   I obtained my Ph.D. degree in Signal and Information Processing from Ningbo
   University in June 2018. From Jan. 2017 to May 2018, I was a visiting Ph.D.
