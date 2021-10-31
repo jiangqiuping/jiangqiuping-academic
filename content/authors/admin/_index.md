@@ -16,7 +16,7 @@ social:
     link: "mailto: jiangqiuping@nbu.edu.cn"
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=PbPTiKYAAAAJ&hl=zh-CN
 organizations:
   - name: School of Information Science and Engineering, Ningbo University
     url: http://www.nbu.edu.cn/
