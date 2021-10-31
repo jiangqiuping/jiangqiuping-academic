@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-<!-- title = "Academic Template" -->
-title = "学术 Template"
+title = "Academic Template"
+<!-- title = "学术 Template" -->
 subtitle = ""
 
 [design]
@@ -51,7 +51,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+## 👋 Welcome to the 学术 Template
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
